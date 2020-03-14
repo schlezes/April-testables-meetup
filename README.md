@@ -4,7 +4,7 @@ Slide Presentation: Testables LA Meetup for April, 2020
 
 This is an html slide presentation for April, 2020 Meetup
 
-![alt text] (https://github.com/schlezes/April-testables-meetup/blob/master/opening-page-of-presentation.png)
+![image](https://user-images.githubusercontent.com/3696845/76689874-9e934300-65f7-11ea-907f-75078f9b8632.png)
 
 This presentation consists of three files:
 
