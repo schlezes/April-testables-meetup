@@ -37,6 +37,10 @@ You can view the artwork files by clicking each item of the img-src directory.
 
 You may download these files into your browser and run.
 
+You may use these files and artwork as you wish.
+
+Most of the artwork was created with Google Autodraw.
+
 Thanks,
 
 Vince Schlezes
