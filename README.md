@@ -1,6 +1,9 @@
 # April-testables-meetup
-Slide Presentation: Testables LA Meetup for April, 2020
+Slide Presentation: Testables LA Meetup for April, 2020.
 
+The purpose of this presentation is to share my experience with Cypress in testing a JavaScript application.
+
+In my opinion, Cypress was a good experience and the slide set will reflect that opinion.
 
 This is an html slide presentation for April, 2020 Meetup
 
@@ -16,12 +19,15 @@ All of the artwork is contained in the img-src directory.
 
 The index.html rendering presents the initial page.
 
-After that a click event on any of the numbered buttons will trigger an action fuction to render the contents of the li object associated with the button.
+After that,
+
+a click event on any of the numbered buttons will trigger an action function to render the contents of the li object associated with the button.
 
 There are two rows of buttons as follows:
 
-    top row for slide statment (or comment) numbered 1 - 23
-    second row for slide artwork to backup or empahsise the above statement of the first row numbered 31 - 53.
+    top row for slide statment (or comment) numbered 1 - 17
+    second row for slide artwork to backup or empahsise the above statement of the first row numbered 31 - 47.
+    
     the initial class setting for the second row of buttons is color: white and background-color: white
     - so that this second row of artwork slides does not give the impression of excessive slide set.
     
